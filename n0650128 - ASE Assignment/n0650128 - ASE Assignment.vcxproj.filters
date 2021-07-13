@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Derived Classes">
+      <UniqueIdentifier>{6b0b1fc8-bf10-4051-a608-2807d4d8cb4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Derived Classes">
+      <UniqueIdentifier>{360c58ec-83b7-4087-b5d6-644d23d87abc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Linked List">
+      <UniqueIdentifier>{c4272d73-a78c-4187-9a04-f9784e375810}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Linked List">
+      <UniqueIdentifier>{8088ed31-1029-4bd2-aae9-2af33c61066b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="n0650128 - ASE Assignment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Debit.cpp">
+      <Filter>Source Files\Derived Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Cashpoint.cpp">
+      <Filter>Source Files\Derived Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectDebit.cpp">
+      <Filter>Source Files\Derived Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Creditpoint.cpp">
+      <Filter>Source Files\Derived Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Interest.cpp">
+      <Filter>Source Files\Derived Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Transfer.cpp">
+      <Filter>Source Files\Derived Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Link.cpp">
+      <Filter>Source Files\Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="List.cpp">
+      <Filter>Source Files\Linked List</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Transaction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Debit.h">
+      <Filter>Header Files\Derived Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Cashpoint.h">
+      <Filter>Header Files\Derived Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectDebit.h">
+      <Filter>Header Files\Derived Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Transfer.h">
+      <Filter>Header Files\Derived Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Creditpoint.h">
+      <Filter>Header Files\Derived Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Interest.h">
+      <Filter>Header Files\Derived Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Link.h">
+      <Filter>Header Files\Linked List</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>Header Files\Linked List</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
